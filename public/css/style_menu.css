@@ -76,3 +76,11 @@ dd{
     align-items: center;
     justify-content: center;
 }
+
+@media (max-width: 590px){
+    .importante{
+        background-color: black;
+        color: #021526;
+        
+    }
+}

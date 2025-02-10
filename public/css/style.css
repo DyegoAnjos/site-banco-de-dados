@@ -31,7 +31,6 @@ body{
 #logoBD{
     color: #FF6500;
     font-size: 6rem;
-    
 }
 nav{
     height: 80%;
@@ -66,9 +65,6 @@ nav a:hover{
     padding: 5px 5px 5px 250px;
     
 }
-
-
-
 
 table{
     width: 100%;
@@ -128,3 +124,4 @@ table a:hover{
     justify-content: space-around;
     font-size: 2rem;
 }
+
